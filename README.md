@@ -28,7 +28,7 @@ Borrowers get money without selling cryptoassets. Investors offer loans and earn
 | MAX Supply | `1,50,00,000` |
 | Block Size | `4MB` |
 | Block Time | `60s` |
-| Block Reward | `0.5-35 BIBE |
+| Block Reward | `0.5-35` BIBE |
 | PoS Reward | `Dynamic` |
 | Stake Time | `3 hour` | 
 | Masternode Requirement | `1500 bitsbee` |
