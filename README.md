@@ -15,7 +15,6 @@
 * SuperNode Investment Network - 1st in segment to give guaranteed 10% return on Masternode Investment cost per month with interest payout cycle every 16th day.
 * Very Low MAX Supply
 * Segwit
-* Smart contract (soon)
 * X11 PoS hybrid algorithm
 
 Bitsbee platform for crypto assets backed loans.
