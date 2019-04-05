@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitsbee
+Comment=Bitsbee P2P Cryptocurrency
+Comment[fr]=Bitsbee, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bitsbee, eşten eşe kriptografik sanal para birimi
+Exec=bitsbee-qt %u
+Terminal=false
+Type=Application
+Icon=bitsbee128
+MimeType=x-scheme-handler/bitsbee;
+Categories=Office;Finance;

@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/bitsbee_bg.qm</file>
+        <file alias="ca">locale/bitsbee_ca.qm</file>
+        <file alias="cs">locale/bitsbee_cs.qm</file>
+        <file alias="da">locale/bitsbee_da.qm</file>
+        <file alias="de">locale/bitsbee_de.qm</file>
+        <file alias="en">locale/bitsbee_en.qm</file>
+        <file alias="en_US">locale/bitsbee_en_US.qm</file>
+        <file alias="es">locale/bitsbee_es.qm</file>
+        <file alias="fi">locale/bitsbee_fi.qm</file>
+        <file alias="fr_FR">locale/bitsbee_fr_FR.qm</file>
+        <file alias="hr">locale/bitsbee_hr.qm</file>
+        <file alias="it">locale/bitsbee_it.qm</file>
+        <file alias="ja">locale/bitsbee_ja.qm</file>
+        <file alias="ko_KR">locale/bitsbee_ko_KR.qm</file>
+        <file alias="nl">locale/bitsbee_nl.qm</file>
+        <file alias="pl">locale/bitsbee_pl.qm</file>
+        <file alias="pt">locale/bitsbee_pt.qm</file>
+        <file alias="pt_BR">locale/bitsbee_pt_BR.qm</file>
+        <file alias="ro_RO">locale/bitsbee_ro_RO.qm</file>
+        <file alias="ru">locale/bitsbee_ru.qm</file>
+        <file alias="sk">locale/bitsbee_sk.qm</file>
+        <file alias="sv">locale/bitsbee_sv.qm</file>
+        <file alias="tr">locale/bitsbee_tr.qm</file>
+        <file alias="uk">locale/bitsbee_uk.qm</file>
+        <file alias="zh_CN">locale/bitsbee_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bitsbee_zh_TW.qm</file>
+    </qresource>
+</RCC>
