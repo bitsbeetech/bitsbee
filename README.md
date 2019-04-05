@@ -31,7 +31,7 @@ Borrowers get money without selling cryptoassets. Investors offer loans and earn
 | Block Reward | `0.5-35` BIBE |
 | PoS Reward | `Dynamic` |
 | Stake Time | `3 hour` | 
-| Masternode Requirement | `1500 bitsbee` |
+| Masternode Requirement | `1500 BIBE` |
 | Masternode Reward | `Dynamic` |
 | RPC Port | `27028` |
 | Masternode Port | `27027` |
